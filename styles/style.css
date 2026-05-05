@@ -35,6 +35,12 @@ h1 {
   text-shadow: 4px 4px 1px black;
 }
 
+a {
+  color: #149954;
+  background-color: #000000;
+  font-weight: bold;
+}
+
 img {
   display: block;
   margin: 0 auto;
