@@ -1,2 +1,2 @@
-# Cleveland Liberation Band Headquarters
-Hi, we are a group of Cleveland musicians dedicated playing songs everywhere tied to the struggles for liberation.
+# Test Website for the Cleveland Liberation Band
+Hey so yeah, I set this up to try to make this all work.
