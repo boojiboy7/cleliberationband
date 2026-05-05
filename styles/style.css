@@ -1,16 +1,16 @@
 html {
-  font-size: 20px;
+  font-size: 16px;
   font-family: 'Courier New';
 }
 
 
 h1 {
-  font-size: 60px;
+  font-size: 300%;
   text-align: center;
 }
 
 p, li {
-  font-size: 20px;
+  font-size: 150%;
   line-height: 2;
   letter-spacing: 1px;
 }
