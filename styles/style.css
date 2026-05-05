@@ -28,17 +28,17 @@ body {
   border: 5px solid black;
 }
 
+a {
+  color: #149954;
+  background-color: #000000;
+  font-weight: bold;
+}
+
 h1 {
   margin: 0;
   padding: 20px 0;
   color: #E4312b;
   text-shadow: 4px 4px 1px black;
-}
-
-a {
-  color: #149954;
-  background-color: #000000;
-  font-weight: bold;
 }
 
 img {
