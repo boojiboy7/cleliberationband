@@ -1,5 +1,5 @@
 html {
-  font-size: 16px;
+  font-size: 20px;
   font-family: 'Courier New';
 }
 
@@ -11,6 +11,7 @@ h1 {
 
 p, li {
   font-size: 16px;
+  line-height: 2;
   letter-spacing: 1px;
 }
 
