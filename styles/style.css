@@ -86,11 +86,18 @@ h2 {
   text-align: center;
 }
 
-p, li {
-  font-size: 2vw;
+li {
+  font-size: 3vw;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+
+p {
+  font-size: 3vw;
   line-height: 1;
   letter-spacing: 1px;
 }
+
 img {
   display: block;
   margin: 0 auto;
