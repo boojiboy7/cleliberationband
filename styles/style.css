@@ -62,14 +62,6 @@ body {
   float: right;
 }
 
-  .topnav-centered a {
-    position: relative;
-    top: 0;
-    left: 0;
-    transform: none;
-  }
-}
-
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
