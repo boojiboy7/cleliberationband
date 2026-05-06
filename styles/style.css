@@ -1,9 +1,7 @@
 html {
   font-family: 'Courier New';
-}
-
-html {
   background-color: #149954;
+  max-width: 1000px
 }
 
 body {
