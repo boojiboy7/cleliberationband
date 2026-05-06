@@ -25,6 +25,12 @@ body {
   border: 5px solid black;
 }
 
+.top-container {
+  background-color: #FFFFFF;
+  padding: 30px;
+  text-align: center;
+}
+
 .header {
   position: sticky;
   top: 0;
