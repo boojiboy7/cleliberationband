@@ -17,37 +17,62 @@ body {
   text-align: center;
 }
 
-.navbar {
-  position: sticky;
-  top: 0;
-  background: #149954;
-  color: #000000;
-  text-align: center;
-}
-
-.navbar ul li{
-  display:inline;
-  float: left;
-  padding-left: 5%;
- }
-
-.navbar ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
+/* Add a black background color to the top navigation */
+.topnav {
+  position: relative;
   background-color: #149954;
+  overflow: hidden;
 }
 
-.navbar ul li a {
-  color: white;
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #FFFFFF;
   text-align: center;
-  padding: 0px 0px;
+  padding: 14px 16px;
   text-decoration: none;
+  font-size: 17px;
 }
 
-.navbar ul li a:hover {
+/* Change the color of links on hover */
+.topnav a:hover {
   background-color: #000000;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #E4312b;
+  color: white;
+}
+
+/* Centered section inside the top navigation */
+.topnav-centered a {
+  float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+  float: right;
+}
+
+/* Responsive navigation menu - display links on top of each other instead of next to each other (for mobile devices) */
+@media screen and (max-width: 600px) {
+  .topnav a, .topnav-right {
+    float: none;
+    display: block;
+  }
+
+  .topnav-centered a {
+    position: relative;
+    top: 0;
+    left: 0;
+    transform: none;
+  }
 }
 
 /* Create two equal columns that floats next to each other */
