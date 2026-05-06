@@ -21,10 +21,9 @@ body {
 /* Add a black background color to the top navigation */
 .topnav {
   position: sticky;
-  top: 0;
+  overflow: hidden;
   width: 100%;
   background-color: #149954;
-  overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
