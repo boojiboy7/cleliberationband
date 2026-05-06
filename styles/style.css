@@ -15,6 +15,7 @@ body {
   background-color: #FFFFFF;
   padding: 5px;
   text-align: center;
+  overflow: hidden;
 }
 
 /* Add a black background color to the top navigation */
