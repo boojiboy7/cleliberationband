@@ -27,6 +27,7 @@ body {
   color: #000000;
   text-align: center;
 }
+
 .navbar ul li{
   display:inline;
   float: left;
@@ -43,7 +44,7 @@ body {
 .navbar ul li a {
   color: white;
   text-align: center;
-  padding: 5px 5px;
+  padding: 30px 5px;
   text-decoration: none;
 }
 
