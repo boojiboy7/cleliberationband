@@ -23,8 +23,8 @@ body {
 .header {
   position: sticky;
   top: 0;
-  background: #555;
-  color: #149954;
+  background: #149954;
+  color: #000000;
 }
 
 ul {
