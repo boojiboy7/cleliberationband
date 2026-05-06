@@ -29,9 +29,8 @@ body {
 .header {
   position: sticky;
   top: 0;
-  padding: 10px 16px;
   background: #555;
-  color: #000000;
+  color: #FFFFFF;
 }
 
 a {
