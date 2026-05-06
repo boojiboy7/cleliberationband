@@ -68,6 +68,9 @@ body {
     float: none;
     display: block;
   }
+  .column {
+    width: 100%;
+  }
 
   .topnav-centered a {
     position: relative;
