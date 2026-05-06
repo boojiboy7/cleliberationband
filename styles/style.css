@@ -2,21 +2,13 @@ html {
   font-family: 'Courier New';
 }
 
-.header {
-  position: sticky;
-  top: 0;
-  padding: 10px 16px;
-  background: #555;
-  color: #f1f1f1;
-}
-
 h1 {
-  font-size: 5vw;
+  font-size: 10vw;
   text-align: center;
 }
 
 p, li {
-  font-size: 1vw;
+  font-size: 5vw;
   line-height: 2;
   letter-spacing: 1px;
 }
@@ -32,6 +24,14 @@ body {
   background-color: #FFFFFF;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
+}
+
+.header {
+  position: sticky;
+  top: 0;
+  padding: 10px 16px;
+  background: #555;
+  color: #000000;
 }
 
 a {
