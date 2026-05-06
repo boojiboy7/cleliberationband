@@ -2,18 +2,6 @@ html {
   font-family: 'Courier New';
 }
 
-h1 {
-  font-size: 5vw;
-  text-align: center;
-}
-
-p, li {
-  font-size: 3vw;
-  line-height: 2;
-  letter-spacing: 1px;
-}
-
-
 html {
   background-color: #149954;
 }
@@ -51,6 +39,16 @@ h1 {
   text-shadow: 2px 2px 1px black;
 }
 
+h1 {
+  font-size: 5vw;
+  text-align: center;
+}
+
+p, li {
+  font-size: 3vw;
+  line-height: 2;
+  letter-spacing: 1px;
+}
 img {
   display: block;
   margin: 0 auto;
