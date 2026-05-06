@@ -27,7 +27,16 @@ body {
   color: #000000;
 }
 
-ul {
+.navbar {
+	text-align:center;
+}
+
+.navbar ul li{
+  display:inline;
+  float: left;
+ }
+
+.navbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -35,11 +44,7 @@ ul {
   background-color: #149954;
 }
 
-ul li {
-  float: left;
-}
-
-ul li a {
+.navbar ul li a {
   display: block;
   color: white;
   text-align: center;
@@ -47,7 +52,7 @@ ul li a {
   text-decoration: none;
 }
 
-ul li a:hover {
+.navbar ul li a:hover {
   background-color: #000000;
 }
   
