@@ -22,7 +22,6 @@ body {
 .topnav {
   position: sticky;
   overflow: hidden;
-  width: 100%;
   background-color: #149954;
 }
 
