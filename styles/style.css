@@ -35,8 +35,8 @@ body {
 
 .navbar ul {
   list-style-type: none;
-  margin: 0;
-  padding: 10px;
+  margin: 20px;
+  padding: 0;
   overflow: hidden;
   background-color: #149954;
 }
