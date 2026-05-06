@@ -64,6 +64,11 @@ body {
   clear: both;
 }
 
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+
 a {
   color: #149954;
   font-weight: bold;
@@ -99,10 +104,5 @@ img {
 {
   box-sizing: border-box;
 }
-
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
   
 }
