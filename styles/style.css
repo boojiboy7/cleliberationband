@@ -19,7 +19,7 @@ body {
 
 /* Add a black background color to the top navigation */
 .topnav {
-  position: fixed;
+  position: sticky;
   top: 0;
   width: 100%;
   background-color: #149954;
