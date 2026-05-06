@@ -20,18 +20,13 @@ body {
   text-align: center;
 }
 
-.header {
+.navbar {
   position: sticky;
   top: 0;
   background: #149954;
   color: #000000;
   text-align: center;
 }
-
-.navbar {
-	text-align:center;
-}
-
 .navbar ul li{
   display:inline;
   float: left;
