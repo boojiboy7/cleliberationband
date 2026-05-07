@@ -24,7 +24,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 5vw;
-  text-shadow: 1px 1px 1px black;
+  text-shadow: 2px 2px 2px black;
 }
 
 /* Add a black background color to the top navigation */
