@@ -12,10 +12,9 @@ body {
 }
 
 .top-container {
-  background-color: #FFFFFF;
-  padding: 5px;
+  position: relative;
   text-align: center;
-  overflow: hidden;
+  color: white;
 }
 
 .centered {
