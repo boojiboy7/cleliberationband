@@ -16,6 +16,7 @@ body {
   text-align: center;
   color: #E4312b;
   max-height: 250px
+  overflow: hidden;
 }
 
 .centered {
