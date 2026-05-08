@@ -15,6 +15,7 @@ body {
   position: relative;
   text-align: center;
   color: #E4312b;
+  max-height: 250px
 }
 
 .centered {
