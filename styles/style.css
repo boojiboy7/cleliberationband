@@ -34,7 +34,7 @@ body {
 
 /* Add a black background color to the top navigation */
 .topnav {
-  position: sticky;
+  position: relative;
   overflow: hidden;
   background-color: #149954;
 }
@@ -42,7 +42,6 @@ body {
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  display: block;
   color: #FFFFFF;
   text-align: center;
   padding: 5px 16px;
